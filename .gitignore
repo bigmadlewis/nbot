@@ -35,5 +35,11 @@ build/
 ### VS Code ###
 .vscode/
 
+### Sensitive stuff ###
+config.properties
+activity.db
+target/
+.idea/
+
 ### Mac OS ###
 .DS_Store
